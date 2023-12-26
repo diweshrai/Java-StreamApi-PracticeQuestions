@@ -23,7 +23,8 @@ public class SixthQuestion {
 		  
 		  
 		  
-		  // Method 2
+		  /// Method 2
+		  
 		  
 		  int maxNum =0;
 		  
@@ -38,6 +39,7 @@ public class SixthQuestion {
 		 
 		  
 		  System.out.println(maxNum);
+		  
 
 	}
 
